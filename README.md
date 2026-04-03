@@ -4,7 +4,7 @@ Analista Dati appassionato di BI, SQL e Python.
 Qui trovi i miei progetti e il mio percorso formativo.
 
 ## 📄 Il mio Curriculum
-[Scarica o visualizza il mio CV (PDF)](NOME_DEL_TUO_FILE_CV.pdf)
+[Scarica o visualizza il mio CV di dettaglio (PDF)](Tripepi_Andrea_Dettaglio.pdf)
 
 ## 🚀 Competenze
 - **BI:** Power BI
